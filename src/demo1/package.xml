@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>demo1</name>
+  <version>0.1.0</version>
+  <description>Demo 1 — classes, objects, constructors and inheritance, driving the K1 head and arms.</description>
+  <maintainer email="jobkarwan@gmail.com">karwan</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclcpp</depend>
+  <depend>geometry_msgs</depend>
+  <depend>booster_msgs</depend>
+  <export><build_type>ament_cmake</build_type></export>
+</package>

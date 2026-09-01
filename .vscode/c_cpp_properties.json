@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "K1",
+      "includePath": [
+        "${workspaceFolder}/src/demo1/include",
+        "/opt/ros/humble/include/**",
+        "/opt/booster/BoosterRos2/install/booster_msgs/include/**",
+        "/opt/booster/BoosterRos2/install/cv_bridge/include/**"
+      ],
+      "compilerPath": "/usr/bin/g++",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "linux-gcc-arm64"
+    }
+  ],
+  "version": 4
+}

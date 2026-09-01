@@ -1,0 +1,9 @@
+# colcon output
+build/
+install/
+log/
+
+# private scratch and terminal dumps — never publish
+_notes.txt
+_logs.txt
+*.log
