@@ -122,14 +122,16 @@ The status code names a category. The **reason** is in the robot's own
 ```
 src/demo1/include/robot.h     the robot: one ROS node, the loco API, head pose
 src/demo1/src/actions.cpp     the lesson: Action and its four subclasses
-QNA.md                        every question a student asks, answered
+QNA.md                        notes on the C++ and ROS 2 this uses
 TYPING_SCRIPT.md              the fifteen minutes, beat by beat
 ```
 
-`QNA.md` is the longer half of this repository and the part worth reading:
-constructors and initialiser lists, why the destructor is virtual, references
-versus pointers, the three meanings of `static`, what `rclcpp` is, what spinning
-is for, and why the arm APIs are start/stop.
+`QNA.md` is the longer half of this repository. It covers the C++ this program
+actually uses — constructors and initialiser lists, why the destructor is
+virtual, references versus pointers, the three meanings of `static` — and the
+ROS 2 side: what `rclcpp` is, what spinning is for, and why the arm APIs are
+start/stop. It is not exhaustive, and it is written against this code rather
+than as a general C++ tutorial.
 
 ## License
 
