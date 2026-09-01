@@ -20,6 +20,15 @@ Not `Animal` and `Dog`. Every command in here is one the robot actually accepts.
 
 The head looks left, nods twice, looks right, the arm waves, the robot cheers.
 
+## Get this on your phone
+
+![qr](qr.png)
+
+<https://github.com/karwan5880/k1-oop-demo>
+
+`qr_slide.png` is the same code captioned for a projector; `qr.svg` scales for
+print; `qr.txt` prints it in a terminal (`cat qr.txt`).
+
 ## What it teaches, and where
 
 | idea | where |
